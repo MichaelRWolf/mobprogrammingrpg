@@ -42,12 +42,15 @@ A supportive role focused on improving individual and team efficiency through ke
 ## Example Keystroke Areas
 
 ### File Navigation
+
 - Search for file, open file, close file
 
 ### Code Navigation  
+
 - Go to definition, go back, display references
 
 ### Refactoring (The Big 6)
+
 - Rename (variable, function, method, class)
 - Extract Variable
 - Extract Method/Function
@@ -55,10 +58,21 @@ A supportive role focused on improving individual and team efficiency through ke
 - Inline Method/Function
 - Move (code between methods, classes, or files)
 
+| MS Code Action   | Common phrase used in IDE documentation | MS Code Menu                                 | MS Code Keystroke                           |
+|------------------|-----------------------------------------|----------------------------------------------|---------------------------------------------|
+| Rename Symbol    | Rename symbol                           | Right-click → Rename Symbol                  | F2                                          |
+| Extract Variable | Extract to variable                     | Right-click → Refactor → Extract to variable | Ctrl+Shift+R (select "Extract to variable") |
+| Extract Method   | Extract method                          | Right-click → Refactor → Extract method      | Ctrl+Shift+R (select "Extract method")      |
+| Inline Variable  | Inline variable                         | Right-click → Refactor → Inline variable     | Ctrl+Shift+R (select "Inline variable")     |
+| Inline Method    | Inline method                           | Right-click → Refactor → Inline method       | Ctrl+Shift+R (select "Inline method")       |
+| Move Line        | Move line up/down                       | Edit → Move Line Up/Down                     | Alt+↑/Alt+↓                                 |
+
 ### Testing
+
 - Run all tests, run one test
 
 ### SCM (Git)
+
 - Commit, push, pull, add
 
 ## Related Roles
