@@ -66,6 +66,9 @@ A supportive role focused on improving individual and team efficiency through ke
 | Inline Variable  | Inline variable                         | Right-click → Refactor → Inline variable     | Ctrl+Shift+R (select "Inline variable")     |
 | Inline Method    | Inline method                           | Right-click → Refactor → Inline method       | Ctrl+Shift+R (select "Inline method")       |
 | Move Line        | Move line up/down                       | Edit → Move Line Up/Down                     | Alt+↑/Alt+↓                                 |
+| Move Method      | Move method to another class            | Right-click → Refactor → Move method         | Ctrl+. (select "Move method")               |
+| Move Class       | Move class to another package/file      | Right-click → Refactor → Move class          | Ctrl+. (select "Move class")                |
+| Rename/Move File | Rename or move file                     | Explorer → Right-click → Rename/Move         | F2 (in Explorer) or Right-click → Rename    |
 
 ### Testing
 
