@@ -70,6 +70,18 @@ A supportive role focused on improving individual and team efficiency through ke
 | Move Class       | Move class to another package/file      | Right-click → Refactor → Move class          | Ctrl+. (select "Move class")                |
 | Rename/Move File | Rename or move file                     | Explorer → Right-click → Rename/Move         | F2 (in Explorer) or Right-click → Rename    |
 
+| JetBrains Action | Common phrase used in IDE documentation | JetBrains Menu                | JetBrains Keystroke        |
+|------------------|-----------------------------------------|-------------------------------|----------------------------|
+| Rename           | Rename symbol                           | Refactor → Rename             | Shift+F6                   |
+| Extract Variable | Extract variable                        | Refactor → Extract → Variable | Ctrl+Alt+V                 |
+| Extract Method   | Extract method                          | Refactor → Extract → Method   | Ctrl+Alt+M                 |
+| Inline Variable  | Inline variable                         | Refactor → Inline             | Ctrl+Alt+N                 |
+| Inline Method    | Inline method                           | Refactor → Inline             | Ctrl+Alt+N                 |
+| Move Line        | Move line up/down                       | Code → Move Line Up/Down      | Shift+Alt+↑/Shift+Alt+↓    |
+| Move Method      | Move method to another class            | Refactor → Move               | F6                         |
+| Move Class       | Move class to another package           | Refactor → Move               | F6                         |
+| Rename/Move File | Rename or move file                     | Refactor → Rename/Move        | Shift+F6 (in Project view) |
+
 ### Testing
 
 - Run all tests, run one test
