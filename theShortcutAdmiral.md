@@ -58,6 +58,8 @@ A supportive role focused on improving individual and team efficiency through ke
 - Inline Method/Function
 - Move (code between methods, classes, or files)
 
+#### MS Code Cheat Sheet
+
 | MS Code Action   | Common phrase used in IDE documentation | MS Code Menu                                 | MS Code Keystroke                           |
 |------------------|-----------------------------------------|----------------------------------------------|---------------------------------------------|
 | Rename Symbol    | Rename symbol                           | Right-click → Rename Symbol                  | F2                                          |
@@ -70,6 +72,8 @@ A supportive role focused on improving individual and team efficiency through ke
 | Move Class       | Move class to another package/file      | Right-click → Refactor → Move class          | Ctrl+. (select "Move class")                |
 | Rename/Move File | Rename or move file                     | Explorer → Right-click → Rename/Move         | F2 (in Explorer) or Right-click → Rename    |
 
+#### JetBrains Cheat Sheet
+
 | JetBrains Action | Common phrase used in IDE documentation | JetBrains Menu                | JetBrains Keystroke        |
 |------------------|-----------------------------------------|-------------------------------|----------------------------|
 | Rename           | Rename symbol                           | Refactor → Rename             | Shift+F6                   |
@@ -81,6 +85,15 @@ A supportive role focused on improving individual and team efficiency through ke
 | Move Method      | Move method to another class            | Refactor → Move               | F6                         |
 | Move Class       | Move class to another package           | Refactor → Move               | F6                         |
 | Rename/Move File | Rename or move file                     | Refactor → Rename/Move        | Shift+F6 (in Project view) |
+|------------------|-----------------------------------------|-------------------------------|----------------------------|
+
+#### Tally Sheet
+
+| Action | Navigator/Request | Shortcut Admiral/Offer | Driver/Mouse | Driver/Menu | Driver/Keyboard | Driver/Request |
+|--------|-------------------|------------------------|--------------|-------------|-----------------|----------------|
+|        |                   |                        |              |             |                 |                |
+|        |                   |                        |              |             |                 |                |
+|        |                   |                        |              |             |                 |                |
 
 ### Testing
 
