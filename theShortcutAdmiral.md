@@ -40,8 +40,16 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 
 1. Driver says "Shortcut Check" when they need shortcut assistance.
 2. Shortcut Admiral immediately provides the correct keystroke information using this phrasing
-> "[ACTION] has shortcut [SHORTCUT]"
-Example: "Rename variable has shortcut F2".
+   > "[ACTION] has shortcut [SHORTCUT]"
+   Example: "Rename variable has shortcut F2".
+   
+   a. If the Shortcut Admiral does not immediately know the shortcut, they announce: 
+   > "I do not know shortcut. Does The Mob know it?"
+   b. If anyone in the mob knows the shortcut, they announce it using the standard phrasing.
+   c. If nobody replies, anyone may announce 
+   > "I will look it up", 
+   then announce the shortcut when found.
+   d. The Shortcut Admiral should add the shortcut to the tally sheet and cheat sheet once found.
 3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer a suggestion using the same phrasing.
 4. Driver accepts the information without argument and attempts to (but is not required to) use the suggested shortcut.
 
