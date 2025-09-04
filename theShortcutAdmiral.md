@@ -40,17 +40,17 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 
 1. Driver says "Shortcut Check" when they need shortcut assistance.
 2. Shortcut Admiral immediately provides the correct keystroke information.
-3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer: "What I noticed about your approach was [positive observation]. To make it more efficient, you could use [specific shortcut]."
-4. Driver accepts the information without argument and attempts to use the suggested shortcut.
+3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer: "[ACTION] has shortcut [SHORTCUT]" (e.g., "Rename variable has shortcut F2").
+4. Driver accepts the information without argument and attempts to (but is not required to) use the suggested shortcut.
 
 ## Commitments
 
 * Say "Shortcut Check" as soon as you realize you need shortcut assistance, regardless of current activity.
-* Provide keystroke information immediately and accurately.
-* Focus only on positive observations and specific improvements.
+* Follow the intent of the Perfection Game: focus on positive observations and specific improvements.
 * Accept keyboard suggestions without argument or defensiveness.
 * Be supportive of anyone using Shortcut Check.
 * Do not shame or punish anyone for not knowing shortcuts.
+* Do not shame or punish anyone for not using shortcuts.
 * Withhold suggestions only if you cannot provide a specific improvement.
 
 ## Scoring
