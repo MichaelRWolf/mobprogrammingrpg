@@ -6,7 +6,7 @@ A supportive role focused on improving individual and team efficiency through ke
 
 - Observing patterns in Driver behavior and tool usage
 - Identifying opportunities for keyboard shortcut improvements
-- Providing timely, non-intrusive keystroke suggestions
+- Providing timely, non-intrusive shortcut suggestions
 - Balancing immediate productivity with long-term skill development
 - Recognizing when shortcuts have been internalized by the Driver
 
@@ -22,32 +22,32 @@ A supportive role focused on improving individual and team efficiency through ke
 
 ### Level 2: Proactive Support
 
-- When Driver uses mouse or menu, suggest keyboard shortcut
-- Format: "ACTION is bound to KEYBOARD-SHORTCUT"
+- When Driver uses mouse or menu, observe and suggest shortcut
+- Format: "ACTION has shortcut SHORTCUT"
 - Focus on the 5 key areas: File navigation, Code navigation, Refactoring, Testing, SCM
 
 ### Level 3: On-Demand Assistance
 
 - Respond to Driver's "Shortcut Check" requests
-- Provide correct keystroke information immediately
 - Support the Driver's responsibility to maintain team efficiency
+- This includes following the Shortcut Check protocol below
 
 #### Shortcut Check
 
-Use Shortcut Check when the Driver needs immediate assistance with a keyboard shortcut or when the Shortcut Admiral observes an opportunity for efficiency improvement.
+Use Shortcut Check when the Driver needs immediate assistance with a shortcut or when the Shortcut Admiral observes an opportunity for efficiency improvement.
 
 ## Steps
 
 1. Driver says "Shortcut Check" when they need shortcut assistance.
-2. Shortcut Admiral immediately provides the correct keystroke information using this phrasing
+2. Shortcut Admiral immediately provides the correct shortcut information using this phrasing
    > "[ACTION] has shortcut [SHORTCUT]"
    Example: "Rename variable has shortcut F2".
-   
-   a. If the Shortcut Admiral does not immediately know the shortcut, they announce: 
-   > "I do not know shortcut. Does The Mob know it?"
-   b. If anyone in the mob knows the shortcut, they announce it using the standard phrasing.
-   c. If nobody replies, anyone may announce 
-   > "I will look it up", 
+  
+   a. If the Shortcut Admiral does not immediately know the shortcut, they announce:
+   > "I do not know shortcut. Does the mob know it?"
+   b. If any Mobber knows the shortcut, they announce it using the standard phrasing.
+   c. If nobody replies, any Mobber may announce
+   > "I will look it up",
    then announce the shortcut when found.
    d. The Shortcut Admiral should add the shortcut to the tally sheet and cheat sheet once found.
 3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer a suggestion using the same phrasing.
@@ -55,19 +55,18 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 
 ## Commitments
 
-* Say "Shortcut Check" as soon as you realize you need shortcut assistance, regardless of current activity.
-* Follow the intent of the Perfection Game: focus on positive observations and specific improvements.
-* Accept keyboard suggestions without argument or defensiveness.
-* Be supportive of anyone using Shortcut Check.
-* Do not shame or punish anyone for not knowing shortcuts.
-* Do not shame or punish anyone for not using shortcuts.
-* Withhold suggestions only if you cannot provide a specific improvement.
+- Say "Shortcut Check" as soon as you realize you need shortcut assistance, regardless of current activity.
+- Follow the intent of the Perfection Game: focus on positive observations and specific improvements.
+- Accept shortcut suggestions without argument or defensiveness.
+- Be supportive of anyone using Shortcut Check.
+- Do not shame or punish anyone for not knowing shortcuts.
+- Do not shame or punish anyone for not using shortcuts.
+- Withhold suggestions only if you cannot provide a specific improvement.
 
 ## Scoring
 
 - Earn XP when Driver successfully uses a suggested shortcut
-- Earn XP when answering "Shortcut Check" requests correctly
-- Double-count XP with Driver when they use a new keyboard shortcut
+- Double-count XP with Driver when they use a new shortcut
 - Consider awarding XP to the mob when shortcuts prevent "clickey-clickey" delays
 
 ## Example Keystroke Areas
@@ -120,11 +119,15 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 
 #### Tally Sheet
 
-| Action | Navigator/Request | Shortcut Admiral/Offer | Driver/Mouse | Driver/Menu | Driver/Keyboard | Driver/Request |
-|--------|-------------------|------------------------|--------------|-------------|-----------------|----------------|
-|        |                   |                        |              |             |                 |                |
-|        |                   |                        |              |             |                 |                |
-|        |                   |                        |              |             |                 |                |
+| Action          | Navigator Request | Shortcut Admiral Suggestion | Driver Response (Mouse) | Driver Response (Menu) | Driver Response (Shortcut) | Driver Request (Shortcut Check) |
+|-----------------|-------------------|-----------------------------|-------------------------|------------------------|----------------------------|---------------------------------|
+| Rename Variable | xxxxx/xx          |                             |                         | xxxxx                  | xx                         |                                 |
+|                 |                   |                             |                         |                        |                            |                                 |
+| Rename Method   | xxx               | xx                          |                         |                        | xxx                        | x                               |
+
+Eamples:
+- Observation Phase -- The Navigator requested "Rename Variable" 7 times.  Because they were in observation mode, the Shortcut Admiral made 0 suggestions.  The Driver used the menu 5 times and keyboard shortut 2 times.
+- Suggestion Phase -- The Navigator requested "Rename Method" 3 times.  The Shortcut Admiral made a suggestion 2 times.  The Driver did "Shortcut Request" 1 time, and used shortcut 3 times.
 
 ### Testing
 
@@ -162,16 +165,19 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 ## References
 
 ### [The Core Protocols](https://thecoreprotocols.org/)
+
 A set of communication protocols designed to improve team collaboration and effectiveness. The Core Protocols provide structured approaches for common team interactions, including decision-making, conflict resolution, and personal alignment.
 
 The Shortcut Admiral can leverage these protocols to enhance their ability to support the team through clear, respectful communication patterns. By understanding and applying Core Protocol principles, the Shortcut Admiral can create a more structured and effective learning environment for keyboard shortcut education.
 
 ### [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck)
+
 A specific Core Protocol for addressing incorrect protocol usage or broken commitments. When a team member says "Protocol Check," it signals that a protocol is being used incorrectly or a Core Commitment is being broken. This protocol emphasizes immediate, supportive intervention without shame or punishment.
 
-The Shortcut Admiral can use this concept to gently correct when keyboard shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly. The Protocol Check approach ensures that corrections are made immediately and supportively, maintaining the educational focus of the role.
+The Shortcut Admiral can use this concept to gently correct when shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly. The Protocol Check approach ensures that corrections are made immediately and supportively, maintaining the educational focus of the role.
 
 ### [Perfection Game](https://thecoreprotocols.org/protocols/perfectiongame)
+
 A structured feedback protocol designed to improve work through positive, constructive input. The Perfection Game focuses on what's valuable about the work and specific suggestions for making it better, using a 1-10 scale based on how much value the reviewer can add. This protocol emphasizes only positive comments and actionable improvements, avoiding negative criticism.
 
-The Shortcut Admiral can apply this approach when providing feedback on the Driver's keyboard shortcut usage, focusing on what's working well and specific ways to improve efficiency. By using the Perfection Game format, the Shortcut Admiral ensures that all feedback is constructive and actionable, creating a positive learning environment.
+The Shortcut Admiral can apply this approach when providing constructive feedback on the Driver's shortcut usage, focusing on what's working well and specific ways to improve efficiency. By using the Perfection Game format, the Shortcut Admiral ensures that all feedback is constructive and actionable, creating a positive learning environment.
