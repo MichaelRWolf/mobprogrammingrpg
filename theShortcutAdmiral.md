@@ -28,14 +28,35 @@ A supportive role focused on improving individual and team efficiency through ke
 
 ### Level 3: On-Demand Assistance
 
-- Respond to Driver's "Shortcut?" requests
+- Respond to Driver's "Shortcut Check" requests
 - Provide correct keystroke information immediately
 - Support the Driver's responsibility to maintain team efficiency
+
+#### Shortcut Check
+
+Use Shortcut Check when the Driver needs immediate assistance with a keyboard shortcut or when the Shortcut Admiral observes an opportunity for efficiency improvement.
+
+## Steps
+
+1. Driver says "Shortcut Check" when they need shortcut assistance.
+2. Shortcut Admiral immediately provides the correct keystroke information.
+3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer: "What I noticed about your approach was [positive observation]. To make it more efficient, you could use [specific shortcut]."
+4. Driver accepts the information without argument and attempts to use the suggested shortcut.
+
+## Commitments
+
+* Say "Shortcut Check" as soon as you realize you need shortcut assistance, regardless of current activity.
+* Provide keystroke information immediately and accurately.
+* Focus only on positive observations and specific improvements.
+* Accept keyboard suggestions without argument or defensiveness.
+* Be supportive of anyone using Shortcut Check.
+* Do not shame or punish anyone for not knowing shortcuts.
+* Withhold suggestions only if you cannot provide a specific improvement.
 
 ## Scoring
 
 - Earn XP when Driver successfully uses a suggested shortcut
-- Earn XP when answering "Shortcut?" requests correctly
+- Earn XP when answering "Shortcut Check" requests correctly
 - Double-count XP with Driver when they use a new keyboard shortcut
 - Consider awarding XP to the mob when shortcuts prevent "clickey-clickey" delays
 
@@ -127,3 +148,14 @@ A supportive role focused on improving individual and team efficiency through ke
 | Conductor        |              |                     | ✓             |                       | ✓                   |                              |
 | Major Pain       |              |                     | ✓             |                       |                     |                              |
 | Dr. Feel Good    |              |                     | ✓             |                       |                     |                              |
+
+## References
+
+### [The Core Protocols](https://thecoreprotocols.org/)
+A set of communication protocols designed to improve team collaboration and effectiveness. The Core Protocols provide structured approaches for common team interactions, including decision-making, conflict resolution, and personal alignment. These protocols can enhance the Shortcut Admiral's ability to support the team through clear, respectful communication patterns.
+
+### [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck)
+A specific Core Protocol for addressing incorrect protocol usage or broken commitments. When a team member says "Protocol Check," it signals that a protocol is being used incorrectly or a Core Commitment is being broken. This protocol emphasizes immediate, supportive intervention without shame or punishment. The Shortcut Admiral can use this concept to gently correct when keyboard shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly.
+
+### [Perfection Game](https://thecoreprotocols.org/protocols/perfectiongame)
+A structured feedback protocol designed to improve work through positive, constructive input. The Perfection Game focuses on what's valuable about the work and specific suggestions for making it better, using a 1-10 scale based on how much value the reviewer can add. This protocol emphasizes only positive comments and actionable improvements, avoiding negative criticism. The Shortcut Admiral can apply this approach when providing feedback on the Driver's keyboard shortcut usage, focusing on what's working well and specific ways to improve efficiency.
