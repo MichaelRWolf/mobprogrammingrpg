@@ -152,10 +152,16 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 ## References
 
 ### [The Core Protocols](https://thecoreprotocols.org/)
-A set of communication protocols designed to improve team collaboration and effectiveness. The Core Protocols provide structured approaches for common team interactions, including decision-making, conflict resolution, and personal alignment. These protocols can enhance the Shortcut Admiral's ability to support the team through clear, respectful communication patterns.
+A set of communication protocols designed to improve team collaboration and effectiveness. The Core Protocols provide structured approaches for common team interactions, including decision-making, conflict resolution, and personal alignment.
+
+The Shortcut Admiral can leverage these protocols to enhance their ability to support the team through clear, respectful communication patterns. By understanding and applying Core Protocol principles, the Shortcut Admiral can create a more structured and effective learning environment for keyboard shortcut education.
 
 ### [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck)
-A specific Core Protocol for addressing incorrect protocol usage or broken commitments. When a team member says "Protocol Check," it signals that a protocol is being used incorrectly or a Core Commitment is being broken. This protocol emphasizes immediate, supportive intervention without shame or punishment. The Shortcut Admiral can use this concept to gently correct when keyboard shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly.
+A specific Core Protocol for addressing incorrect protocol usage or broken commitments. When a team member says "Protocol Check," it signals that a protocol is being used incorrectly or a Core Commitment is being broken. This protocol emphasizes immediate, supportive intervention without shame or punishment.
+
+The Shortcut Admiral can use this concept to gently correct when keyboard shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly. The Protocol Check approach ensures that corrections are made immediately and supportively, maintaining the educational focus of the role.
 
 ### [Perfection Game](https://thecoreprotocols.org/protocols/perfectiongame)
-A structured feedback protocol designed to improve work through positive, constructive input. The Perfection Game focuses on what's valuable about the work and specific suggestions for making it better, using a 1-10 scale based on how much value the reviewer can add. This protocol emphasizes only positive comments and actionable improvements, avoiding negative criticism. The Shortcut Admiral can apply this approach when providing feedback on the Driver's keyboard shortcut usage, focusing on what's working well and specific ways to improve efficiency.
+A structured feedback protocol designed to improve work through positive, constructive input. The Perfection Game focuses on what's valuable about the work and specific suggestions for making it better, using a 1-10 scale based on how much value the reviewer can add. This protocol emphasizes only positive comments and actionable improvements, avoiding negative criticism.
+
+The Shortcut Admiral can apply this approach when providing feedback on the Driver's keyboard shortcut usage, focusing on what's working well and specific ways to improve efficiency. By using the Perfection Game format, the Shortcut Admiral ensures that all feedback is constructive and actionable, creating a positive learning environment.
