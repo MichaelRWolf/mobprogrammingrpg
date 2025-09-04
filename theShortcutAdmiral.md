@@ -39,8 +39,10 @@ Use Shortcut Check when the Driver needs immediate assistance with a keyboard sh
 ## Steps
 
 1. Driver says "Shortcut Check" when they need shortcut assistance.
-2. Shortcut Admiral immediately provides the correct keystroke information.
-3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer: "[ACTION] has shortcut [SHORTCUT]" (e.g., "Rename variable has shortcut F2").
+2. Shortcut Admiral immediately provides the correct keystroke information using this phrasing
+> "[ACTION] has shortcut [SHORTCUT]"
+Example: "Rename variable has shortcut F2".
+3. If the Shortcut Admiral observes an efficiency opportunity, they may proactively offer a suggestion using the same phrasing.
 4. Driver accepts the information without argument and attempts to (but is not required to) use the suggested shortcut.
 
 ## Commitments
