@@ -170,14 +170,20 @@ A set of communication protocols designed to improve team collaboration and effe
 
 The Shortcut Admiral can leverage these protocols to enhance their ability to support the team through clear, respectful communication patterns. By understanding and applying Core Protocol principles, the Shortcut Admiral can create a more structured and effective learning environment for keyboard shortcut education.
 
-### [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck)
+#### [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck)
 
 A specific Core Protocol for addressing incorrect protocol usage or broken commitments. When a team member says "Protocol Check," it signals that a protocol is being used incorrectly or a Core Commitment is being broken. This protocol emphasizes immediate, supportive intervention without shame or punishment.
 
 The Shortcut Admiral can use this concept to gently correct when shortcut suggestions are being ignored or when the role's guidelines aren't being followed properly. The Protocol Check approach ensures that corrections are made immediately and supportively, maintaining the educational focus of the role.
 
-### [Perfection Game](https://thecoreprotocols.org/protocols/perfectiongame)
+#### [Perfection Game](https://thecoreprotocols.org/protocols/perfectiongame)
 
 A structured feedback protocol designed to improve work through positive, constructive input. The Perfection Game focuses on what's valuable about the work and specific suggestions for making it better, using a 1-10 scale based on how much value the reviewer can add. This protocol emphasizes only positive comments and actionable improvements, avoiding negative criticism.
 
 The Shortcut Admiral can apply this approach when providing constructive feedback on the Driver's shortcut usage, focusing on what's working well and specific ways to improve efficiency. By using the Perfection Game format, the Shortcut Admiral ensures that all feedback is constructive and actionable, creating a positive learning environment.
+
+### [Motivation-Hygiene Theory](https://en.wikipedia.org/wiki/Two-factor_theory)
+
+A psychological theory developed by Frederick Herzberg in the 1950s that distinguishes between two types of factors affecting workplace satisfaction. Hygiene factors are basic job conditions that prevent dissatisfaction but don't create satisfaction (like salary, working conditions, company policies). Motivators are factors that create satisfaction and drive performance (like achievement, recognition, responsibility, growth opportunities).
+
+The theory's key insight is that satisfaction and dissatisfaction are not opposites on a single continuum, but rather separate dimensions. Removing hygiene factors prevents dissatisfaction, while adding motivators creates satisfaction and drives excellence.
