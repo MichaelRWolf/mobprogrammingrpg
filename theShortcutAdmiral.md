@@ -2,6 +2,29 @@
 
 A supportive role focused on improving individual and team efficiency through keyboard shortcut education and guidance.
 
+## Goal/Impetus
+
+In sports, basic dribbling and passing skills are hygiene factors - they're required to be competent, but being great at dribbling and passing won't make you a great player. However, without solid dribbling and passing skills, you can't focus on the motivators that create excellence: vision, creativity, teamwork, and strategic thinking. These basic skills also enable effective team play and communication.
+
+Similarly, keyboard shortcuts are a hygiene factor in software development. Without basic IDE proficiency, mobs are limited by the least proficient team member's skill. Mobbing provides an opportunity for everyone to learn shared hygiene factors together. When these skills are learned by all team members, the mob can focus on the motivators that drive excellence: creative problem-solving, system architecture, collaboration, and innovation. These basic skills also enable effective team communication and knowledge sharing.
+
+### Hygiene Factors in Software Development
+- **IDE proficiency** (keyboard shortcuts, navigation, refactoring)
+- **Version control basics** (commit, push, pull, branch)
+- **Testing fundamentals** (write tests, run tests, debug)
+- **Code organization** (file structure, naming conventions)
+- **Basic debugging** (breakpoints, logging, error handling)
+
+### Motivator Skills in Software Development
+- **Creative problem-solving** and algorithmic thinking
+- **System architecture** and design patterns
+- **Collaboration** and communication
+- **Innovation** and experimentation
+- **Mentoring** and knowledge sharing
+- **Strategic thinking** and technical leadership
+
+This role addresses the hygiene factor of IDE proficiency, enabling developers to focus on the motivators that create satisfaction and drive excellence.
+
 ## The Skills to Learn
 
 - Observing patterns in Driver behavior and tool usage
